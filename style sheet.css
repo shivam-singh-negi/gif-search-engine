@@ -1,0 +1,44 @@
+
+body{
+background-color: red;
+}
+
+
+
+.sec
+{background-image: url(big/h.png);
+	 background-repeat: no-repeat;
+  background-size: all;
+  border: 1px solid black;
+  background-size: 100% 100%;
+    border-radius: 4px;
+
+
+}
+
+
+#search_bar{
+line-height: 2em;
+width: 40%;  
+margin-left: 25%;
+margin-top: 20%;
+margin-bottom:1%;
+background-color: #C7B6D6;
+}
+
+
+#iccon{
+		width: 12%;  height:100px;
+}
+
+
+button{
+	height: 32px;
+	width: 32px;
+}
+
+
+
+.displ{
+	background-color: blue;
+}
